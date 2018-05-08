@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">ডাউনলোড</string>
+  
+  
+  
+  
+  <string name="permissionPositive">ঠিক আছে</string>
+  
+  
+  <string name="permissionNegative">বাতিল</string>
+  
+  
+  <string name="permissionMessage">এই অনুমতি ছাড়া এই অ্যাপ্লিকেশনটি সঠিকভাবে কাজ করতে পারে না</string>
+  
+  
+  <string name="permissionTitle">অনুমতি প্রয়োজন</string>
+  
+  
+  <string name="dialogVideoMessage">এই ভিডিওটি দেখুন বা ডাউনলোড করুন</string>
+  
+  
+  <string name="dialogStoryMessage">এই Instagram গল্প দেখুন বা ডাউনলোড করুন</string>
+  
+  
+  <string name="dialogJambVideo">আপনি কি করতে চান?</string>
+  
+  
+  <string name="dialogPhotoMessage">এই ছবি দেখুন বা ডাউনলোড করুন</string>
+  
+  
+  <string name="dialogJambPhoto">আপনি কি করতে চান?</string>
+  
+  
+  <string name="dialogYes">ডাউনলোড</string>
+  
+  
+  <string name="dialogNoVideo">খেলা</string>
+  
+  
+  <string name="dialogNoPhoto">দৃশ্য</string>
+  
+  
+  <string name="dialogCancel">বাতিল</string>
+  
+  
+  <string name="is_video">ভিডিও</string>
+  
+  
+  <string name="is_photo">ছবি</string>
+  
+  
+  <string name="tops">শীর্ষ পোস্ট</string>
+  
+  
+  <string name="recents">সাম্প্রতিক পোস্ট</string>
+  
+  
+  <string name="follow">অনুসরণ করা</string>
+  
+  
+  <string name="gram_tab">ইনস্টাগ্রাম</string>
+  
+  
+  <string name="explore_tab">অন্বেষণ করা</string>
+  
+  
+  <string name="find_tab">অনুসন্ধান</string>
+  
+  
+  <string name="save_tab">ডাউনলোডগুলি</string>
+  
+  
+  <string name="hints">instagram ব্যবহারকারীর নাম অনুসন্ধান</string>
+  
+  
+  <string name="lorem">আর্কাইভ গাজর বস্তুতঃ আমি তাকে দু'টি বর্তমান ক্ষমতা স্তর। এবং যখন এই কর্তব্য জন্য অনেক কারণ হতে</string>
+  
+  
+  <string name="save_photo">ফটো ডাউনলোড করুন</string>
+  
+  
+  <string name="save_video">ভিডিও ডাউনলোড করুন</string>
+  
+  
+  <string name="save_media">মিডিয়া ডাউনলোড করুন</string>
+  
+  
+  <string name="no_story">কোন খবর উপলব্ধ</string>
+  
+  
+  <string name="post_label">পোস্ট</string>
+  
+  
+  <string name="follwers_label">অনুগামীদের</string>
+  
+  
+  <string name="following_label">অনুসরণ</string>
+  
+  
+  <string name="open">গল্পগুলি ডাউনলোড করুন</string>
+  
+  
+  <string name="bannerTitle">Downloadingâ € |</string>
+  
+  
+  <string name="download_menu">ডাউনলোড</string>
+  
+  
+  <string name="copy_menu">লিংক কপি করুন</string>
+  
+  
+  <string name="share_menu">ভাগ</string>
+  
+  
+  <string name="open_menu">প্রোফাইল দেখুন</string>
+  
+  
+  <string name="options">মেনু বিকল্পগুলি</string>
+  
+  
+  <string name="copied">কপি লিংক</string>
+  
+  
+  <string name="share_using">ব্যবহার করে ভাগ করুন</string>
+  
+  
+  <string name="profile_tap">প্রোফাইল দেখার জন্য আলতো চাপুন</string>
+  
+  
+  <string name="error">ডাউনলোড ত্রুটি</string>
+  
+  
+  <string name="downloadVideo">ভিডিও ডাউনলোড</string>
+  
+  
+  <string name="downloadPhoto">ফটো ডাউনলোড</string>
+  
+  
+  <string name="downloadStart">Downloadingâ € |</string>
+  
+  
+  <string name="sorry">দুঃখিত এই মিডিয়া ডাউনলোড করা যাবে না</string>
+  
+  
+  <string name="content_image">ডাউনলোড ইমেজ</string>
+  
+  
+  <string name="content_video">ভিডিও বোতাম</string>
+  
+  
+  <string name="content">Instagram ছবির</string>
+  
+  
+  <string name="saveVideo">ভিডিও ডাউনলোড করুন</string>
+  
+  
+  <string name="savePhoto">ফটো ডাউনলোড করুন</string>
+  
+  
+  <string name="story_download">ডাউনলোড</string>
+  
+  
+  <string name="array_user">ব্যবহারকারীরা</string>
+  
+  
+  <string name="array_hash">হ্যাশট্যাগ</string>
+  
+
+</resources>

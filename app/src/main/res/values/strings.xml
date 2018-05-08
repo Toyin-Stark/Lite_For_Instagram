@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Lite for Instagram</string>
+
+    <string name="downloads">Download</string>
+
+    <string name="intersistal" translatable="false">1260367304107096_1260367570773736</string>
+
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+    <string name="dialogVideoMessage">Watch or download this video</string>
+    <string name="dialogStoryMessage">Watch or download this Instagram story</string>
+
+    <string name="dialogJambVideo">What would you like to do?</string>
+
+    <string name="dialogPhotoMessage">View or download this photo</string>
+    <string name="dialogJambPhoto">What would you like to do?</string>
+
+    <string name="dialogYes">Download</string>
+    <string name="dialogNoVideo">Play</string>
+    <string name="dialogNoPhoto">View</string>
+    <string name="dialogCancel">Cancel</string>
+
+
+    <string name="is_video">Video</string>
+    <string name="is_photo">Photo</string>
+
+
+    <string name="tops">Top posts</string>
+    <string name="recents">Recents posts</string>
+
+    <string name="follow">Follow</string>
+
+    <string name="gram_tab">Instagram</string>
+    <string name="explore_tab">Explore</string>
+    <string name="find_tab">Search</string>
+    <string name="save_tab">Downloads</string>
+    <string name="hints">search instagram username </string>
+    <string name="lorem">Lorem ipsum dolor sit amet, ei accumsan praesent maiestatis duo. Adhuc oportere rationibus ad his</string>
+
+
+    <string name="save_photo">Download Photo</string>
+    <string name="save_video">Download Video</string>
+    <string name="save_media">Download Media</string>
+    <string name="no_story">No Stories Available</string>
+
+
+    <string name="post_label">posts</string>
+    <string name="follwers_label">followers</string>
+    <string name="following_label">following</string>
+    <string name="open">Download Stories</string>
+    <string name="bannerTitle">Downloading…</string>
+
+
+    <string name="download_menu">Download</string>
+    <string name="copy_menu">Copy Link</string>
+    <string name="share_menu">Share</string>
+    <string name="open_menu">View Profile</string>
+
+    <string name="options">Menu Options</string>
+    <string name="copied">Copied Link</string>
+
+    <string name="share_using">Share using</string>
+
+    <string name="profile_tap">tap to view profile</string>
+
+
+    <string name="error">Download Error </string>
+    <string name="downloadVideo">Downloading Video</string>
+    <string name="downloadPhoto">Downloading Photo</string>
+    <string name="downloadStart">Downloading…</string>
+
+
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+    <string name="content_image">Downloaded Image</string>
+    <string name="content_video">video button</string>
+    <string name="content">Instagram photo</string>
+
+    <string name="saveVideo">Download Video</string>
+    <string name="savePhoto">Download Photo</string>
+    <string name="story_download">Download</string>
+
+
+    <string name="array_user">Users</string>
+    <string name="array_hash">Hashtags</string>
+
+</resources>

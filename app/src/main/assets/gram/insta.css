@@ -1,0 +1,1304 @@
+
+/* Remove "Get App" banner*/
+  ._c05qa
+  {
+    display: none;
+  }
+
+  ._3v251
+  {
+    display: none;
+  }
+
+  ._1qj9z,
+._91nrv
+  {
+    display: none;
+  }
+
+/* New profile elements */
+  ._jgxsv
+  {
+    background: #101010;
+  }
+
+  ._9oc7p
+  {
+    color: #D9D9D9;
+  }
+
+  ._9sg67,
+._qq0ct
+  {
+    color: #D9D9D9;
+  }
+
+  ._j49a9
+  {
+    background-color: #101010;
+  }
+
+  ._j49a9
+  {
+    color: #D9D9D9;
+  }
+
+/* Header */
+  ._t93vr
+  {
+    background-color: #101010;
+
+  }
+
+
+ ._az2em{
+
+     background: #101010 !important;
+ }
+
+._sq5zx{
+     background-color: #101010;
+}
+
+  body{
+
+    background-color: #101010;
+  }
+
+  ._8na73
+  {
+    background-color: #101010;
+    border-bottom: 1px solid #151515;
+  }
+
+  ._bfc7q
+  {
+    background-color: #101010;
+    border-bottom: 1px solid #151515;
+  }
+
+  ._kjnbr{
+
+      background: #202020 !important;
+      border: solid 1px #101010 !important;
+  }
+
+
+   ._lq68t{
+
+        background: #101010 !important;
+  }
+
+
+  ._gft4l
+  {
+    background-color: #202020;
+  }
+
+  ._pz96j
+  {
+    background-color: #101010;
+  }
+
+/* Header Icons */
+  .coreSpriteMobileNavHomeActive, .coreSpriteMobileNavMenuInactive, .coreSpriteMobileNavHomeInactive,.coreSpriteMobileNavTypeLogo, .coreSpriteMobileNavLogo, .coreSpriteMobileNavProfileActive,
+.coreSpriteMobileNavProfileInactive, .coreSpriteMobileNavDiscoverPeople, .coreSpriteMobileNavSearchActive, .coreSpriteMobileNavSearchInactive, .coreSpriteNotificationLeftChevron,
+.coreSpriteLoggedOutWordmark, .coreSpriteMobileNavActivityActive, .coreSpriteMobileNavActivityInactive,
+.coreSpriteBoomerang, .coreSpriteProfileCamera, .coreSpriteFeedCreation ,.coreSpriteGallery,.coreSpriteGlyphBlack, .coreSpriteCameraActive, .coreSpriteCameraInactive, .coreSpriteHeartOpen, .coreSpriteOptionsEllipsis
+  {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+  .coreSpriteGlyphBlack
+  {
+    -webkit-filter: invert(80%);
+    filter: invert(80%);
+  }
+
+/* Camera Page */
+  ._q605d
+  {
+    background-color: #202020;
+  }
+
+  ._ti7fv
+  {
+    color: #D9D9D9;
+  }
+
+  ._1czfy{
+
+      color: #D9D9D9 !important;
+  }
+
+
+  ._phurx{
+
+      color: #D9D9D9 !important;
+  }
+
+/* Search resutls */
+  ._1nn6e
+  {
+    background: #202020;
+    border: solid 1px #202020;
+  }
+
+  ._avvq0
+  {
+    border: solid 1px #202020;
+  }
+
+  ._96n9j
+  {
+    color: #D9D9D9;
+  }
+
+  ._avvq0
+  {
+    color: #D9D9D9;
+  }
+
+  input._avvq0 _o716c
+  {
+    background-color: #202020;
+
+  }
+
+
+   input._avvq0._o716c
+    {
+      background-color: #202020 !important;
+      border: 0px solid #202020 !important;
+
+
+    }
+
+    ._avvq0{
+
+      border: 0px solid #202020 !important;
+
+    }
+
+  /* bottom signin bar */
+
+._g1mg2{
+
+      background-color: #202020;
+
+  }
+
+
+  ._sq5zx{
+
+        background-color: #101010 !important;
+
+  }
+
+
+
+  ._dv59m
+  {
+    background: #202020;
+    border: solid 1px #101010;
+  }
+
+  ._gimca
+  {
+    border-bottom: solid 1px #101010;
+  }
+
+  ._ajwor
+  {
+    color: #D9D9D9;
+  }
+
+  ._sayjy
+  {
+    color: #A4A4A4;
+  }
+
+  ._5tsk5
+  {
+    background: #101010;
+  }
+
+  ._dv59m::after
+  {
+    border-color: transparent transparent #202020;
+  }
+
+  ._9xy3k, ._mrdkw
+  {
+    background: #202020;
+  }
+
+  ._9xy3k
+  {
+    border: solid 1px #101010;
+  }
+
+  ._kwqc3
+  {
+    color: #D9D9D9;
+  }
+
+/* Notification dropdown */
+  ._mahua
+  {
+    background: #202020;
+    border: solid 1px #101010;
+  }
+
+  ._75ljm::after
+  {
+    border-bottom: 1px solid #101010;
+  }
+
+  ._b96u5
+  {
+    color: #A4A4A4;
+  }
+
+  ._nodr2, ._nodr2:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._o78ou, ._o78ou:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._9apn1
+  {
+    border-color: transparent transparent #202020;
+  }
+
+  ._fketj
+  {
+    background: #202020;
+    border: 1px solid #101010;
+  }
+
+  ._o7xyo
+  {
+    color: #D9D9D9;
+  }
+
+/* Follow request text */
+  ._58qwl
+  {
+    color: #D9D9D9;
+  }
+
+  ._r35my, ._r35my:visited
+  {
+    color: #D9D9D9;
+  }
+
+/* Icons */
+  .coreSpriteDesktopNavLogoAndWordmark,
+.coreSpriteDesktopNavExplore,
+.coreSpriteDesktopNavProfile,
+.coreSpriteMore,
+.coreSpriteClose,
+.coreSpriteComment,
+.coreSpriteDesktopNavActivity,
+.coreSpriteDesktopNavExplore,
+.coreSpriteMobileNavSettings
+  {
+    color: #fff;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+/* Main background */
+  ._4kfp8
+  {
+    background-color: #202020 !important;
+  }
+
+._cet1r{
+    background-color: #202020;
+
+}
+
+/* Insta container border and background */
+  ._7g4gl,
+._cwgrh,
+._nx5in,
+._ouv75,
+._psd08,
+._s5vjd
+  {
+    background-color: #101010;
+    border: 1px solid #101010;
+  }
+
+  ._km7ip
+  {
+    border-top: 1px solid #202020;
+  }
+
+/* Insta image right click fix */
+  ._si7dy
+  {
+    display: none !important;
+  }
+
+/*Insta view counter*/
+  ._sokb7
+  {
+    color: #D9D9D9;
+  }
+
+  ._mjnfc
+  {
+    border: solid 1px #202020;
+    color: #D9D9D9;
+  }
+
+  ._6k2u3, ._mjnfc
+  {
+    background: #202020;
+  }
+
+  ._6k2u3
+  {
+    border: 1px solid #202020;
+  }
+
+  ._kt12n
+  {
+    border-color: #202020 transparent transparent transparent;
+  }
+
+  ._sjq6j._ajqft span,
+._qq2if span,
+._9ym92._jbx7w span
+  {
+    color: #FFFFFF !important;
+  }
+
+/* Insta container username */
+  ._iadoq,
+._iadoq:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._95hvo,
+._95hvo:visited
+  {
+    color: #D9D9D9 !important;
+  }
+
+  ._ebg8h, ._ebg8h:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._24641,
+._24641:visited
+  {
+    color: #D9D9D9 !important;
+  }
+
+  ._de460,
+._de460:visited,
+._nt9ow
+  {
+    color: #D9D9D9;
+  }
+
+/* Insta container post time */
+  ._djdmk,
+._djdmk:visited
+  {
+    color: #D9D9D9;
+  }
+
+/* Insta container location */
+  a._q8ysx,
+a._q8ysx:visited
+  {
+    color: #3897f0;
+  }
+
+/* Location Pages */
+  ._qkuz0
+  {
+    color: #D9D9D9;
+  }
+
+  ._nhglx
+  {
+    color: #A4A4A4;
+  }
+
+  ._kseip,
+._kseip:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._j0gmt
+  {
+    color: #D9D9D9;
+  }
+
+  ._cem40
+  {
+    color: #A4A4A4;
+  }
+
+  ._brnf8
+  {
+    background-color: #101010;
+    border: 1px solid #202020;
+  }
+
+  ._c8oxe
+  {
+    color: #D9D9D9;
+  }
+
+  ._72wr6
+  {
+    background-color: #101010;
+    border: 1px solid #202020;
+  }
+
+  ._c8oxe:visited
+  {
+    color: #A4A4A4;
+  }
+
+  ._775gj
+  {
+    padding-bottom: 60px;
+  }
+
+/* Insta container image loading */
+  ._msp39
+  {
+    background-color: #101010;
+  }
+
+/* Insta container image borders */
+  ._9dpug
+  {
+    border-bottom: 1px solid #202020;
+  }
+
+/* Insta container likes counter */
+  ._2g7d5
+  {
+    color: #D9D9D9;
+  }
+
+  ._nt9ow
+  {
+    color: #A4A4A4;
+  }
+
+  ._nzn1h,
+._nzn1h:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._m10kk
+  {
+    border: solid 1px #202020;
+    color: #D9D9D9;
+  }
+
+  ._m10kk, ._rjut9
+  {
+    background: #202020;
+  }
+
+  ._lfirj
+  {
+    border-color: #202020 transparent transparent;
+  }
+
+/* Insta container links/hashtags */
+  a,
+a:visited
+  {
+    color: #3897f0;
+  }
+
+/* Insta container description/comments usernames */
+  ._iqaka
+  {
+    color: #D9D9D9 !important;
+  }
+
+/* Insta container description/comments text */
+  li span
+  {
+    color: #A4A4A4;
+  }
+
+/* Insta container love icon */
+  .coreSpriteLikeHeartOpen,
+.coreSpriteLock,
+.coreSpriteLoggedOutWordmark
+  {
+    color: #fff;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+/* Insta container comment textbox */
+  ._h74gn
+  {
+    background: #101010;
+    color: #D9D9D9;
+  }
+
+  ._hql7s, ._o2wxh
+  {
+    background-color: #101010;
+    border-bottom: 1px solid #202020;
+  }
+
+  ._h74gn:hover
+  {
+    background-color: #202020;
+  }
+
+  ._b6i0l textarea
+  {
+    color: #D9D9D9 !important;
+  }
+
+/* Insta embed popup */
+  ._dnf8p
+  {
+    background: #101010;
+    border: solid 1px #101010;
+  }
+
+  ._agezg
+  {
+    color: #D9D9D9;
+  }
+
+  ._qbbek
+  {
+    border: 1px solid #202020;
+  }
+
+  textarea._qbbek
+  {
+    background: #202020;
+    color: #D9D9D9;
+  }
+
+/* Loading circle at the bottom of the screen*/
+  ._c7qti,
+._ips45
+  {
+    -webkit-filter: brightness(6);
+    filter: brightness(6);
+  }
+
+/* Profile No posts yet box */
+  ._q8pf2
+  {
+    border: 1px solid #101010;
+    background-color: #101010;
+  }
+
+  ._bhfwt
+  {
+    color: #D9D9D9;
+  }
+
+/* Profile text */
+  ._rf3jb,
+._kc4z2
+  {
+    color: #D9D9D9;
+  }
+
+  ._tb97a
+  {
+    color: #A4A4A4;
+    border-bottom: 1px solid #202020 !important;
+  }
+
+
+
+/* Profile links */
+  ._56pjv,
+._56pjv:visited
+  {
+    color: #3897f0;
+  }
+
+/* Profile counters */
+  ._t98z6,
+._t98z6:active,
+._t98z6:hover,
+._t98z6:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._fd86t
+  {
+    color: #A4A4A4;
+  }
+
+  ._lpowm li span
+  {
+    color: #D9D9D9;
+  }
+
+  ._e3il2
+  {
+    background-color: #202020;
+  }
+
+  ._mli86
+  {
+    background-color: rgba(0,0,0,.5);
+  }
+
+/* Profile following/followers pop-out */
+  ._3g81g, ._gs38e
+  {
+    background: #101010;
+  }
+
+  ._lfwfo
+  {
+    background: #101010;
+    border-bottom: solid 1px #101010;
+    color: #D9D9D9;
+  }
+
+  ._b9n99
+  {
+    background: #101010;
+  }
+
+  ._o5iw8, ._o5iw8:visited
+  {
+    color: #D9D9D9;
+  }
+
+
+/* Profile follower button */
+  ._t78yp
+  {
+    border-color: #dbdbdb;
+    color: #dbdbdb;
+  }
+
+/* Profile private message */
+  ._76rrx
+  {
+    border: 1px solid #101010;
+    background-color: #101010;
+  }
+
+  ._9viqy, ._kcrwx
+  {
+    color: #D9D9D9;
+  }
+
+/* Profile Suggested */
+  ._66ugs
+  {
+    border: 1px solid #101010;
+  }
+
+  ._66ugs,
+._66ugs::before
+  {
+    background: #101010;
+  }
+
+  ._85ya5
+  {
+    color: #D9D9D9;
+  }
+
+  ._bc1a8
+  {
+    background: #202020;
+    border: 1px solid #202020;
+  }
+
+  ._rrzse
+  {
+    color: #A4A4A4;
+  }
+
+  .coreSpritePagingChevron,
+._6rswy
+  {
+    color: #fff;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+/* Explore tab */
+  ._leqcz
+  {
+    background: #101010;
+    border: solid 1px #101010;
+  }
+
+  ._6e4x5
+  {
+    border-bottom: solid 1px #202020;
+  }
+
+  ._j54dd
+  {
+    background-color: #101010;
+    border: 1px solid #101010;
+  }
+
+/* Separate Insta container */
+  a._gmhuy._kul9p,
+a._gmhuy._kul9p:visited,
+a._gmhuy._kul9p:hover
+  {
+    color: #A4A4A4;
+  }
+
+  ._tjnr4 ._ksjel
+  {
+    background-color: #101010;
+    border: 1px solid #151515;
+  }
+
+  ._28qeb ._s6yvg
+  {
+    border-bottom: 1px solid #202020;
+  }
+
+  ._rdbs8
+  {
+    border: 1px solid #202020;
+  }
+
+/* Pop-out Insta container */
+  ._hm7pe ._7hhq6,
+._rebbv
+  {
+    background-color: #101010;
+    border: #101010;
+  }
+
+/* Pop-out Insta separators */
+  ._4kplh ._9dpug
+  {
+    border-bottom: 1px solid #202020;
+  }
+
+  ._4kplh ._8oo9w
+  {
+    border-top: 1px solid #202020;
+  }
+
+/* Footer */
+  ._s5vm9
+  {
+    background-color: #101010;
+  }
+
+  ._fw3ds a,
+._fw3ds a:visited,
+._17z9g
+  {
+    color: #3897f0;
+  }
+
+  ._es4h6
+  {
+    color: #D9D9D9;
+  }
+
+/* Login screen */
+  ._f9sjj
+  {
+    background-color: #101010;
+    border: 1px solid #101010;
+  }
+
+  ._crc0u
+  {
+    color: #D9D9D9;
+  }
+
+  ._n1zo0
+  {
+    color: #D9D9D9;
+  }
+
+  ._c59vy
+  {
+    color: #D9D9D9;
+  }
+
+  ._e3d9a:focus
+  {
+    border: 1px solid #D9D9D9;
+  }
+
+  ._e3d9a
+  {
+    color: #D9D9D9;
+    border: 1px solid #A4A4A4;
+  }
+
+  input._e3d9a._o716c::-webkit-input-placeholder
+  {
+    color: #A4A4A4;
+  }
+
+  ._4sb73
+  {
+    color: #3897f0;
+  }
+
+  ._pbd5h,
+._pbd5h:active,
+._pbd5h:hover,
+._pbd5h:visited
+  {
+    color: #3897f0;
+  }
+
+  ._ph6vk, ._sjplo
+  {
+    background: #202020;
+    color: #D9D9D9;
+  }
+
+  ._jqf0k{
+      color: #D9D9D9 !important;
+
+  }
+
+  ._sjplo
+  {
+    color: #D9D9D9;
+    border: 1px solid #202020;
+  }
+
+/* Reset password */
+  body.sidebar-page
+  {
+    background: #101010 !important;
+  }
+
+  .sidebar-nav, .sidebar-content
+  {
+    display: none;
+  }
+
+  .nav-page-content h1
+  {
+    color: #D9D9D9;
+  }
+
+  .nav-page-content
+  {
+    color: #D9D9D9;
+  }
+
+  .main form.bordered,
+.main form.bordered .form-actions
+  {
+    border-top: 1px solid #101010;
+  }
+
+  .main form.bordered input:not([type=submit]),
+.main form.bordered span
+  {
+    margin-bottom: 10px;
+  }
+
+  .top-bar .logo
+  {
+    height: 132px;
+    top: -94px;
+  }
+
+  #recaptcha_logo
+  {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+  .top-bar
+  {
+    border-bottom: none;
+    background-image: none;
+    box-shadow: none;
+  }
+
+  .top-bar-actions,
+.top-bar-actions > li > a
+  {
+    border: none;
+    box-shadow: none;
+  }
+
+  #recaptcha_response_field,
+#id_email_or_username
+  {
+    color: #D9D9D9;
+    background-color: #101010;
+    border: 1px solid #101010;
+  }
+
+/* Profile options */
+  ._28rsa
+  {
+    margin: 60px auto;
+  }
+
+  ._28rsa
+  {
+    background-color: #101010;
+    border: 1px solid #101010;
+  }
+
+  ._mleeu
+  {
+    border-right: 1px solid #202020;
+  }
+
+  ._kx10g
+  {
+    color: #D9D9D9;
+  }
+
+  ._9dz61
+  {
+    color: #D9D9D9;
+  }
+
+  ._4abhr, ._jlcqs
+  {
+    color: #D9D9D9;
+  }
+
+  ._49rz2
+  {
+    color: #D9D9D9;
+  }
+
+  ._aqsz9
+  {
+    color: #D9D9D9;
+  }
+
+  ._snyzf:checked~._1u1jc::before
+  {
+    border-bottom: 2px solid #D9D9D9;
+    border-left: 2px solid #D9D9D9;
+  }
+
+  ._nxkvc
+  {
+    color: #D9D9D9;
+  }
+
+  ._fvhml,
+._fvhml:active,
+._fvhml:hover,
+._fvhml:visited
+  {
+    color: #D9D9D9;
+  }
+
+  ._t0stc
+  {
+    border-left-color: #d9d9d9;
+  }
+
+  ._fvhml._etlo6:hover
+  {
+    background-color: #202020;
+  }
+
+  ._ss4tm
+  {
+    color: #D9D9D9;
+  }
+
+  ._k2m7c
+  {
+    color: #D9D9D9;
+  }
+
+  ._5zfsi
+  {
+    color: #A4A4A4;
+  }
+
+  ._l9ywh
+  {
+    color: #D9D9D9;
+  }
+
+  ._7kkme
+  {
+    color: #D9D9D9;
+  }
+
+  ._7md5x
+  {
+    color: #A4A4A4;
+  }
+
+  ._ml0fm
+  {
+    border-bottom: 1px solid #202020;
+    color: #A4A4A4;
+  }
+
+  ._oyadj
+  {
+    color: #D9D9D9;
+  }
+
+  ._m8ewt
+  {
+    color: #A4A4A4;
+  }
+
+  ._4a4z2
+  {
+    color: #D9D9D9;
+  }
+
+  textarea._7ff2d
+  {
+    color: #D9D9D9;
+  }
+
+  textarea._7ff2d::-webkit-input-placeholder
+  {
+    color: #A4A4A4;
+  }
+
+  ._8lz2r
+  {
+    color: #D9D9D9;
+  }
+
+  ._klfex
+  {
+    color: #D9D9D9;
+  }
+
+  ._a1s21
+  {
+    color: #A4A4A4;
+  }
+
+  ._52qm9{
+      color: #D9D9D9 !important;
+
+  }
+
+  select
+  {
+    background-color: #101010 !important;
+  }
+
+  option
+  {
+    color: #D9D9D9 !important;
+  }
+
+  ._ijm8y
+  {
+    color: #D9D9D9;
+  }
+
+  ._4twnn
+  {
+    color: #A4A4A4;
+  }
+
+  ._b5l0j ._fme88
+  {
+    color: #A4A4A4;
+  }
+
+  ._nzhr9
+  {
+    border-bottom-color: #202020;
+  }
+
+  ._4fji0
+  {
+    border-top-color: #202020;
+  }
+
+  ._151tt
+  {
+    color: #A4A4A4;
+  }
+
+  ._8lez2
+  {
+    color: #D9D9D9;
+  }
+
+  ._gvhl0
+  {
+    color: #D9D9D9;
+  }
+
+  ._jh9m1
+  {
+    color: #D9D9D9;
+  }
+
+/* Page not found */
+  .-cx-PRIVATE-Page__body, .-cx-PRIVATE-Page__main
+  {
+    background-color: #202020;
+  }
+
+  .-cx-PRIVATE-NavBar__root
+  {
+    background-color: #101010;
+    border-bottom: 1px solid #101010;
+  }
+
+  .-cx-PRIVATE-NavBar__logo
+  {
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+  .-cx-PRIVATE-ErrorPage__errorContainer
+  {
+    color: #D9D9D9;
+  }
+
+  .-cx-PRIVATE-Footer__root
+  {
+    background-color: #101010;
+  }
+
+  .-cx-PRIVATE-Footer__navItems a,
+.-cx-PRIVATE-Footer__navItems a:active,
+.-cx-PRIVATE-Footer__navItems a:focus,
+.-cx-PRIVATE-Footer__navItems a:hover,
+.-cx-PRIVATE-Footer__navItems a:visited
+  {
+    color: #3897f0;
+  }
+
+  .-cx-PRIVATE-Footer__copyright
+  {
+    color: #D9D9D9;
+  }
+
+  .-cx-PRIVATE-ErrorPage__errorContainer a,
+.-cx-PRIVATE-ErrorPage__errorContainer a:visited
+  {
+    color: #3897f0;
+  }
+
+  .-cx-PRIVATE-NavBar__username
+  {
+    color: #3897f0;
+  }
+
+/* Mobile fixes*/
+  ._p3zuo
+  {
+    background: #202020;
+  }
+
+  ._eskl6
+  {
+    background: #202020;
+  }
+
+  ._fysxf, ._tgfps
+ {
+    background: #202020;
+  }
+  ._bugdy
+  {
+    color: #D9D9D9;
+    border-bottom: none;
+  }
+
+  ._s53mj,
+._s53mj:active,
+._s53mj:hover,
+._s53mj:visited
+  {
+    color: #D9D9D9;
+  }
+
+/* Chrome IG Story text fix */
+  .trayContainer div span
+  {
+    color: #D9D9D9!important;
+  }
+
+  .trayContainerEdgeFade
+  {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, #202020 100%);
+  }
+
+._hr9tt{
+    background: #202020;
+    border-bottom: none;
+}
+
+._ocij3{
+    color: #D9D9D9!important;
+}
+
+._aylf4{
+    color: #D9D9D9!important;
+}
+._780fm {
+    border-top: none !important;
+    background: #101010 !important;
+
+}
+
+._alabb>a {
+    color: #3796ef !important;
+    font-weight: 600 !important;
+}
+
+._t8n9b{
+
+    background: #101010 !important;
+}
+
+._gimca {
+
+    border-bottom: none !important;
+
+}
+
+._9xy3k, ._f0s89 {
+    background: #101010 !important;
+}

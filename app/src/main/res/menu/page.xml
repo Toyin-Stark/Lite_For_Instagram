@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/ic_file"
+        android:title="@string/download_menu" />
+
+    <item
+        android:id="@+id/open"
+        android:icon="@drawable/ic_opened"
+        android:title="@string/open_menu" />
+
+    <item
+        android:id="@+id/copy"
+        android:icon="@drawable/ic_content_copy"
+        android:title="@string/copy_menu" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share_menu" />
+
+
+
+</menu>

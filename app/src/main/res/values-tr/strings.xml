@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">İndir</string>
+  
+  
+  
+  
+  <string name="permissionPositive">Tamam</string>
+  
+  
+  <string name="permissionNegative">İptal etmek</string>
+  
+  
+  <string name="permissionMessage">Bu uygulama, bu izin olmadan düzgün çalışamaz</string>
+  
+  
+  <string name="permissionTitle">Izin gerekli</string>
+  
+  
+  <string name="dialogVideoMessage">Bu videoyu izleyin veya indirin</string>
+  
+  
+  <string name="dialogStoryMessage">Bu Instagram hikayesini izleyin veya indirin</string>
+  
+  
+  <string name="dialogJambVideo">Ne yapmak istersin?</string>
+  
+  
+  <string name="dialogPhotoMessage">Bu fotoğrafı görüntüle veya indir</string>
+  
+  
+  <string name="dialogJambPhoto">Ne yapmak istersin?</string>
+  
+  
+  <string name="dialogYes">İndir</string>
+  
+  
+  <string name="dialogNoVideo">Oyun</string>
+  
+  
+  <string name="dialogNoPhoto">Görünüm</string>
+  
+  
+  <string name="dialogCancel">İptal etmek</string>
+  
+  
+  <string name="is_video">Video</string>
+  
+  
+  <string name="is_photo">Fotoğraf</string>
+  
+  
+  <string name="tops">En çok okunanlar</string>
+  
+  
+  <string name="recents">Son gönderiler</string>
+  
+  
+  <string name="follow">Takip et</string>
+  
+  
+  <string name="gram_tab">Instagram</string>
+  
+  
+  <string name="explore_tab">keşfetmek</string>
+  
+  
+  <string name="find_tab">Arama</string>
+  
+  
+  <string name="save_tab">İndirilenler</string>
+  
+  
+  <string name="hints">instagram kullanıcı adı ara</string>
+  
+  
+  <string name="lorem">Lorem ipsum onu ikisinin mevcut gücünü katman havuç. Ve bunlar gerektiğini ederken birçok nedeni olmaya</string>
+  
+  
+  <string name="save_photo">Fotoğrafı İndir</string>
+  
+  
+  <string name="save_video">Video indir</string>
+  
+  
+  <string name="save_media">Medyayı İndir</string>
+  
+  
+  <string name="no_story">Mevcut Hikayeler Yok</string>
+  
+  
+  <string name="post_label">Mesajları</string>
+  
+  
+  <string name="follwers_label">takipçileri</string>
+  
+  
+  <string name="following_label">takip etme</string>
+  
+  
+  <string name="open">Öyküler indir</string>
+  
+  
+  <string name="bannerTitle">İndiriliyor ...</string>
+  
+  
+  <string name="download_menu">İndir</string>
+  
+  
+  <string name="copy_menu">Bağlantıyı kopyala</string>
+  
+  
+  <string name="share_menu">Pay</string>
+  
+  
+  <string name="open_menu">Profili Görüntüle</string>
+  
+  
+  <string name="options">Menü seçenekleri</string>
+  
+  
+  <string name="copied">Kopyalanan Bağlantı</string>
+  
+  
+  <string name="share_using">Kullanarak paylaş</string>
+  
+  
+  <string name="profile_tap">Profili görmek için dokunun</string>
+  
+  
+  <string name="error">İndirme hatası</string>
+  
+  
+  <string name="downloadVideo">Video İndiriliyor</string>
+  
+  
+  <string name="downloadPhoto">Fotoğraf indiriliyor</string>
+  
+  
+  <string name="downloadStart">İndiriliyor ...</string>
+  
+  
+  <string name="sorry">Maalesef bu medya indirilemiyor</string>
+  
+  
+  <string name="content_image">İndirilen Görüntü</string>
+  
+  
+  <string name="content_video">video düğmesi</string>
+  
+  
+  <string name="content">Instagram fotoğraf</string>
+  
+  
+  <string name="saveVideo">Video indir</string>
+  
+  
+  <string name="savePhoto">Fotoğrafı İndir</string>
+  
+  
+  <string name="story_download">İndir</string>
+  
+  
+  <string name="array_user">Kullanıcılar</string>
+  
+  
+  <string name="array_hash">Hashtag'ler</string>
+  
+
+</resources>

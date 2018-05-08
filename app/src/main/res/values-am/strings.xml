@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">አውርድ</string>
+  
+  
+  
+  
+  <string name="permissionPositive">እሺ</string>
+  
+  
+  <string name="permissionNegative">ሰርዝ</string>
+  
+  
+  <string name="permissionMessage">ይህ ፍቃድ ያለፍቃድ በአግባቡ መስራት አይችልም</string>
+  
+  
+  <string name="permissionTitle">ፈቃድ ያስፈልጋል</string>
+  
+  
+  <string name="dialogVideoMessage">ይህን ቪዲዮ ይመልከቱ ወይም ያውርዱ</string>
+  
+  
+  <string name="dialogStoryMessage">ይህንን የ Instagram ታሪክ ይመልከቱ ወይም ያውርዱት</string>
+  
+  
+  <string name="dialogJambVideo">ምን መስራት ይፈልጋሉ?</string>
+  
+  
+  <string name="dialogPhotoMessage">ይህን ፎቶ ይመልከቱ ወይም ያውርዱ</string>
+  
+  
+  <string name="dialogJambPhoto">ምን መስራት ይፈልጋሉ?</string>
+  
+  
+  <string name="dialogYes">አውርድ</string>
+  
+  
+  <string name="dialogNoVideo">ተጫወት</string>
+  
+  
+  <string name="dialogNoPhoto">ይመልከቱ</string>
+  
+  
+  <string name="dialogCancel">ሰርዝ</string>
+  
+  
+  <string name="is_video">ቪድዮ</string>
+  
+  
+  <string name="is_photo">ፎቶግራፍ</string>
+  
+  
+  <string name="tops">ከፍተኛ ልጥፎች</string>
+  
+  
+  <string name="recents">የቅርብ ጊዜ ልጥፎች</string>
+  
+  
+  <string name="follow">ይከተሉ</string>
+  
+  
+  <string name="gram_tab">Instagram</string>
+  
+  
+  <string name="explore_tab">አስስ</string>
+  
+  
+  <string name="find_tab">ፍለጋ</string>
+  
+  
+  <string name="save_tab">የወረዱ</string>
+  
+  
+  <string name="hints">ፍለጋ የ instagram የተጠቃሚ ስም</string>
+  
+  
+  <string name="lorem">Lorem ipsum ከእርሱ ሁለት በአሁኑ ኃይል ንብርብር ካሮት. እና እነዚህ ይገባናል ሳለ ብዙ ምክንያቶች መሆን</string>
+  
+  
+  <string name="save_photo">ፎቶ አውርድ</string>
+  
+  
+  <string name="save_video">ቪዲዮ አውርድ</string>
+  
+  
+  <string name="save_media">ሚዲያ አውርድ</string>
+  
+  
+  <string name="no_story">ምንም ታሪኮች አይገኙም</string>
+  
+  
+  <string name="post_label">ልጥፎች</string>
+  
+  
+  <string name="follwers_label">ተከታዮች</string>
+  
+  
+  <string name="following_label">በመከተል</string>
+  
+  
+  <string name="open">ታሪኮችን ያውርዱ</string>
+  
+  
+  <string name="bannerTitle">በማውረድ ላይ</string>
+  
+  
+  <string name="download_menu">አውርድ</string>
+  
+  
+  <string name="copy_menu">አገናኝ ገልብጥ</string>
+  
+  
+  <string name="share_menu">አጋራ</string>
+  
+  
+  <string name="open_menu">መገለጫ አሳይ</string>
+  
+  
+  <string name="options">የምናሌ አማራጮች</string>
+  
+  
+  <string name="copied">የተቀዳ አገናኝ</string>
+  
+  
+  <string name="share_using">በመጠቀም አጋራ</string>
+  
+  
+  <string name="profile_tap">መገለጫ ለማየት መታ ያድርጉ</string>
+  
+  
+  <string name="error">የአውርድ ስህተት</string>
+  
+  
+  <string name="downloadVideo">ቪዲዮ በማውረድ ላይ</string>
+  
+  
+  <string name="downloadPhoto">ፎቶ በማውረድ ላይ</string>
+  
+  
+  <string name="downloadStart">በማውረድ ላይ</string>
+  
+  
+  <string name="sorry">ይቅርታ, ይህ ሚዲያ ሊወርድ አልቻለም</string>
+  
+  
+  <string name="content_image">ምስል አውርድ</string>
+  
+  
+  <string name="content_video">ቪዲዮ አዘራር</string>
+  
+  
+  <string name="content">የ Instagram ፎቶ</string>
+  
+  
+  <string name="saveVideo">ቪዲዮ አውርድ</string>
+  
+  
+  <string name="savePhoto">ፎቶ አውርድ</string>
+  
+  
+  <string name="story_download">አውርድ</string>
+  
+  
+  <string name="array_user">ተጠቃሚዎች</string>
+  
+  
+  <string name="array_hash">ሃሽታግስ</string>
+  
+
+</resources>

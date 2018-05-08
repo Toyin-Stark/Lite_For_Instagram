@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">Download</string>
+  
+  
+  
+  
+  <string name="permissionPositive">OK</string>
+  
+  
+  <string name="permissionNegative">Annuleer</string>
+  
+  
+  <string name="permissionMessage">Deze app kan niet goed werken zonder deze toestemming</string>
+  
+  
+  <string name="permissionTitle">Permissie nodig</string>
+  
+  
+  <string name="dialogVideoMessage">Bekijk of download deze video</string>
+  
+  
+  <string name="dialogStoryMessage">Bekijk of download dit Instagram-verhaal</string>
+  
+  
+  <string name="dialogJambVideo">Wat zou je willen doen?</string>
+  
+  
+  <string name="dialogPhotoMessage">Bekijk of download deze foto</string>
+  
+  
+  <string name="dialogJambPhoto">Wat zou je willen doen?</string>
+  
+  
+  <string name="dialogYes">Download</string>
+  
+  
+  <string name="dialogNoVideo">Spelen</string>
+  
+  
+  <string name="dialogNoPhoto">Uitzicht</string>
+  
+  
+  <string name="dialogCancel">Annuleer</string>
+  
+  
+  <string name="is_video">Video</string>
+  
+  
+  <string name="is_photo">Foto</string>
+  
+  
+  <string name="tops">Top berichten</string>
+  
+  
+  <string name="recents">Recente berichten</string>
+  
+  
+  <string name="follow">Volgen</string>
+  
+  
+  <string name="gram_tab">Instagram</string>
+  
+  
+  <string name="explore_tab">onderzoeken</string>
+  
+  
+  <string name="find_tab">Zoeken</string>
+  
+  
+  <string name="save_tab">downloads</string>
+  
+  
+  <string name="hints">zoek instagram gebruikersnaam</string>
+  
+  
+  <string name="lorem">Loremipsum wortelen hem laag onderhavige macht van twee. En terwijl deze zou moeten vele redenen voor de te</string>
+  
+  
+  <string name="save_photo">Foto downloaden</string>
+  
+  
+  <string name="save_video">Download video</string>
+  
+  
+  <string name="save_media">Media downloaden</string>
+  
+  
+  <string name="no_story">Geen verhalen beschikbaar</string>
+  
+  
+  <string name="post_label">posts</string>
+  
+  
+  <string name="follwers_label">volgelingen</string>
+  
+  
+  <string name="following_label">als vervolg op</string>
+  
+  
+  <string name="open">Verhalen downloaden</string>
+  
+  
+  <string name="bannerTitle">Downloaden ...</string>
+  
+  
+  <string name="download_menu">Download</string>
+  
+  
+  <string name="copy_menu">Kopieer link</string>
+  
+  
+  <string name="share_menu">Delen</string>
+  
+  
+  <string name="open_menu">Bekijk profiel</string>
+  
+  
+  <string name="options">Menu opties</string>
+  
+  
+  <string name="copied">Gekopieerde link</string>
+  
+  
+  <string name="share_using">Delen via</string>
+  
+  
+  <string name="profile_tap">tik om profiel te bekijken</string>
+  
+  
+  <string name="error">Download fout</string>
+  
+  
+  <string name="downloadVideo">Video downloaden</string>
+  
+  
+  <string name="downloadPhoto">Foto downloaden</string>
+  
+  
+  <string name="downloadStart">Het downloaden ....</string>
+  
+  
+  <string name="sorry">Sorry, deze media kunnen niet worden gedownload</string>
+  
+  
+  <string name="content_image">Gedownloade afbeelding</string>
+  
+  
+  <string name="content_video">videoknop</string>
+  
+  
+  <string name="content">Instagram foto</string>
+  
+  
+  <string name="saveVideo">Download video</string>
+  
+  
+  <string name="savePhoto">Foto downloaden</string>
+  
+  
+  <string name="story_download">downloaden</string>
+  
+  
+  <string name="array_user">gebruikers</string>
+  
+  
+  <string name="array_hash">hashtags</string>
+  
+
+</resources>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">डाउनलोड</string>
+  
+  
+  
+  
+  <string name="permissionPositive">ठीक</string>
+  
+  
+  <string name="permissionNegative">रद्द करना</string>
+  
+  
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता है</string>
+  
+  
+  <string name="permissionTitle">अनुमति की आवश्यकता है</string>
+  
+  
+  <string name="dialogVideoMessage">इस वीडियो को देखें या डाउनलोड करें</string>
+  
+  
+  <string name="dialogStoryMessage">इस Instagram कहानी को देखें या डाउनलोड करें</string>
+  
+  
+  <string name="dialogJambVideo">आप क्या करना पसंद करेंगे?</string>
+  
+  
+  <string name="dialogPhotoMessage">इस तस्वीर को देखें या डाउनलोड करें</string>
+  
+  
+  <string name="dialogJambPhoto">आप क्या करना पसंद करेंगे?</string>
+  
+  
+  <string name="dialogYes">डाउनलोड</string>
+  
+  
+  <string name="dialogNoVideo">प्ले</string>
+  
+  
+  <string name="dialogNoPhoto">राय</string>
+  
+  
+  <string name="dialogCancel">रद्द करना</string>
+  
+  
+  <string name="is_video">वीडियो</string>
+  
+  
+  <string name="is_photo">तस्वीर</string>
+  
+  
+  <string name="tops">शीर्ष पदों</string>
+  
+  
+  <string name="recents">हाल की पोस्ट</string>
+  
+  
+  <string name="follow">का पालन करें</string>
+  
+  
+  <string name="gram_tab">इंस्टाग्राम</string>
+  
+  
+  <string name="explore_tab">अन्वेषण</string>
+  
+  
+  <string name="find_tab">खोज</string>
+  
+  
+  <string name="save_tab">डाउनलोड</string>
+  
+  
+  <string name="hints">खोज Instagram उपयोगकर्ता नाम</string>
+  
+  
+  <string name="lorem">Lorem ipsum गाजर उसे दो की वर्तमान सत्ता परत। और जब इन चाहिए के लिए कई कारणों से होने के लिए</string>
+  
+  
+  <string name="save_photo">फोटो डाउनलोड करें</string>
+  
+  
+  <string name="save_video">वीडियो डाउनलोड करें</string>
+  
+  
+  <string name="save_media">मीडिया डाउनलोड करें</string>
+  
+  
+  <string name="no_story">कोई कहानियां उपलब्ध नहीं हैं</string>
+  
+  
+  <string name="post_label">पदों</string>
+  
+  
+  <string name="follwers_label">अनुयायियों</string>
+  
+  
+  <string name="following_label">निम्नलिखित</string>
+  
+  
+  <string name="open">कहानियां डाउनलोड करें</string>
+  
+  
+  <string name="bannerTitle">डाउनलोड कर रहा है</string>
+  
+  
+  <string name="download_menu">डाउनलोड</string>
+  
+  
+  <string name="copy_menu">प्रतिरूप जोड़ना</string>
+  
+  
+  <string name="share_menu">शेयर</string>
+  
+  
+  <string name="open_menu">प्रोफाइल देखिये</string>
+  
+  
+  <string name="options">व्यंजना सूची</string>
+  
+  
+  <string name="copied">कॉपी लिंक</string>
+  
+  
+  <string name="share_using">उपयोग कर साझा करें</string>
+  
+  
+  <string name="profile_tap">प्रोफ़ाइल देखने के लिए टैप करें</string>
+  
+  
+  <string name="error">डाउनलोड त्रुटि</string>
+  
+  
+  <string name="downloadVideo">वीडियो डाउनलोड करना</string>
+  
+  
+  <string name="downloadPhoto">फोटो डाउनलोड कर रहा है</string>
+  
+  
+  <string name="downloadStart">डाउनलोड कर रहा है ...</string>
+  
+  
+  <string name="sorry">क्षमा करें यह मीडिया डाउनलोड नहीं किया जा सकता है</string>
+  
+  
+  <string name="content_image">डाउनलोड की गई छवि</string>
+  
+  
+  <string name="content_video">वीडियो बटन</string>
+  
+  
+  <string name="content">Instagram फोटो</string>
+  
+  
+  <string name="saveVideo">वीडियो डाउनलोड करें</string>
+  
+  
+  <string name="savePhoto">फोटो डाउनलोड करें</string>
+  
+  
+  <string name="story_download">फोटो डाउनलोड करें</string>
+  
+  
+  <string name="array_user">उपयोगकर्ता</string>
+  
+  
+  <string name="array_hash">हैशटैग</string>
+  
+
+</resources>

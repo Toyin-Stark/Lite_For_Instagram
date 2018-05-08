@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">Pobieranie</string>
+  
+  
+  
+  
+  <string name="permissionPositive">Ok</string>
+  
+  
+  <string name="permissionNegative">Anuluj</string>
+  
+  
+  <string name="permissionMessage">Ta aplikacja nie może działać poprawnie bez tego pozwolenia</string>
+  
+  
+  <string name="permissionTitle">Potrzebne pozwolenie</string>
+  
+  
+  <string name="dialogVideoMessage">Obejrzyj lub pobierz ten film wideo</string>
+  
+  
+  <string name="dialogStoryMessage">Obejrzyj lub pobierz tę historię na Instagramie</string>
+  
+  
+  <string name="dialogJambVideo">Co chciałbyś robić?</string>
+  
+  
+  <string name="dialogPhotoMessage">Wyświetl lub pobierz to zdjęcie</string>
+  
+  
+  <string name="dialogJambPhoto">Co chciałbyś robić?</string>
+  
+  
+  <string name="dialogYes">Pobieranie</string>
+  
+  
+  <string name="dialogNoVideo">Grać</string>
+  
+  
+  <string name="dialogNoPhoto">Widok</string>
+  
+  
+  <string name="dialogCancel">Anuluj</string>
+  
+  
+  <string name="is_video">Wideo</string>
+  
+  
+  <string name="is_photo">Zdjęcie</string>
+  
+  
+  <string name="tops">Najpopularniejsze posty</string>
+  
+  
+  <string name="recents">Najnowsze posty</string>
+  
+  
+  <string name="follow">Śledzić</string>
+  
+  
+  <string name="gram_tab">Instagram</string>
+  
+  
+  <string name="explore_tab">Badać</string>
+  
+  
+  <string name="find_tab">Szukaj</string>
+  
+  
+  <string name="save_tab">Pliki do pobrania</string>
+  
+  
+  <string name="hints">wyszukaj nazwę użytkownika instagram</string>
+  
+  
+  <string name="lorem">Lorem ipsum marchew mu warstwa obecną moc dwóch. I choć te powinny być wiele powodów, dla których</string>
+  
+  
+  <string name="save_photo">Pobierz zdjęcie</string>
+  
+  
+  <string name="save_video">Ściągnij wideo</string>
+  
+  
+  <string name="save_media">Pobierz Media</string>
+  
+  
+  <string name="no_story">Brak dostępnych artykułów</string>
+  
+  
+  <string name="post_label">posty</string>
+  
+  
+  <string name="follwers_label">Obserwujący</string>
+  
+  
+  <string name="following_label">następujący</string>
+  
+  
+  <string name="open">Pobierz historie</string>
+  
+  
+  <string name="bannerTitle">Pobieranie ...</string>
+  
+  
+  <string name="download_menu">Pobieranie</string>
+  
+  
+  <string name="copy_menu">Skopiuj link</string>
+  
+  
+  <string name="share_menu">Dzielić</string>
+  
+  
+  <string name="open_menu">Zobacz profil</string>
+  
+  
+  <string name="options">Opcje menu</string>
+  
+  
+  <string name="copied">Skopiowany link</string>
+  
+  
+  <string name="share_using">Udostępnij za pomocą</string>
+  
+  
+  <string name="profile_tap">dotknij, aby wyświetlić profil</string>
+  
+  
+  <string name="error">Błąd pobierania</string>
+  
+  
+  <string name="downloadVideo">Pobieranie wideo</string>
+  
+  
+  <string name="downloadPhoto">Pobieranie zdjęcia</string>
+  
+  
+  <string name="downloadStart">Pobieranie ...</string>
+  
+  
+  <string name="sorry">Niestety nie można pobrać tego nośnika</string>
+  
+  
+  <string name="content_image">Pobrany obraz</string>
+  
+  
+  <string name="content_video">przycisk wideo</string>
+  
+  
+  <string name="content">Zdjęcie na Instagramie</string>
+  
+  
+  <string name="saveVideo">Ściągnij wideo</string>
+  
+  
+  <string name="savePhoto">Pobierz zdjęcie</string>
+  
+  
+  <string name="story_download">Pobieranie</string>
+  
+  
+  <string name="array_user">Użytkownicy</string>
+  
+  
+  <string name="array_hash">Hashtagi</string>
+  
+
+</resources>

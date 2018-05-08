@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+-->
+<resources>
+  
+  
+  <string name="app_name">Lite for Instagram</string>
+  
+  
+  <string name="downloads">Télécharger</string>
+  
+  
+  
+  
+  <string name="permissionPositive">D\'accord</string>
+  
+  
+  <string name="permissionNegative">Annuler</string>
+  
+  
+  <string name="permissionMessage">Cette application ne peut pas fonctionner correctement sans cette autorisation</string>
+  
+  
+  <string name="permissionTitle">Permission nécessaire</string>
+  
+  
+  <string name="dialogVideoMessage">Regardez ou téléchargez cette vidéo</string>
+  
+  
+  <string name="dialogStoryMessage">Regardez ou téléchargez cette histoire Instagram</string>
+  
+  
+  <string name="dialogJambVideo">Qu\'est-ce que tu aimerais faire?</string>
+  
+  
+  <string name="dialogPhotoMessage">Voir ou télécharger cette photo</string>
+  
+  
+  <string name="dialogJambPhoto">Qu\'est-ce que tu aimerais faire?</string>
+  
+  
+  <string name="dialogYes">Télécharger</string>
+  
+  
+  <string name="dialogNoVideo">Jouer</string>
+  
+  
+  <string name="dialogNoPhoto">Vue</string>
+  
+  
+  <string name="dialogCancel">Annuler</string>
+  
+  
+  <string name="is_video">Vidéo</string>
+  
+  
+  <string name="is_photo">Photo</string>
+  
+  
+  <string name="tops">Top posts</string>
+  
+  
+  <string name="recents">Messages récents</string>
+  
+  
+  <string name="follow">Suivre</string>
+  
+  
+  <string name="gram_tab">Instagram</string>
+  
+  
+  <string name="explore_tab">Explorer</string>
+  
+  
+  <string name="find_tab">Chercher</string>
+  
+  
+  <string name="save_tab">Téléchargements</string>
+  
+  
+  <string name="hints">recherche nom d\'utilisateur instagram</string>
+  
+  
+  <string name="lorem">Lorem ipsum lui Carottes puissance actuelle de superposer deux. Et bien que ceux-ci devraient être nombreuses raisons de la</string>
+  
+  
+  <string name="save_photo">Télécharger la photo</string>
+  
+  
+  <string name="save_video">Télécharger la video</string>
+  
+  
+  <string name="save_media">Télécharger les médias</string>
+  
+  
+  <string name="no_story">Aucune histoire disponible</string>
+  
+  
+  <string name="post_label">des postes</string>
+  
+  
+  <string name="follwers_label">suiveurs</string>
+  
+  
+  <string name="following_label">Suivant</string>
+  
+  
+  <string name="open">Télécharger des histoires</string>
+  
+  
+  <string name="bannerTitle">Téléchargement ...</string>
+  
+  
+  <string name="download_menu">Télécharger</string>
+  
+  
+  <string name="copy_menu">Copier le lien</string>
+  
+  
+  <string name="share_menu">Partager</string>
+  
+  
+  <string name="open_menu">Voir le profil</string>
+  
+  
+  <string name="options">Options de menu</string>
+  
+  
+  <string name="copied">Lien copié</string>
+  
+  
+  <string name="share_using">Partager en utilisant</string>
+  
+  
+  <string name="profile_tap">appuyez pour afficher le profil</string>
+  
+  
+  <string name="error">Erreur de téléchargement</string>
+  
+  
+  <string name="downloadVideo">Téléchargement de vidéo</string>
+  
+  
+  <string name="downloadPhoto">Téléchargement de photo</string>
+  <string name="downloadStart">Téléchargement…</string>
+
+
+
+
+  <string name="sorry">Désolé, ce support ne peut pas être téléchargé</string>
+  
+  
+  <string name="content_image">Image téléchargée</string>
+  
+  
+  <string name="content_video">bouton vidéo</string>
+  
+  
+  <string name="content">Photo Instagram</string>
+  
+  
+  <string name="saveVideo">Télécharger la video</string>
+  
+  
+  <string name="savePhoto">Télécharger la photo</string>
+  
+  
+  <string name="story_download">Télécharger</string>
+  
+  
+  <string name="array_user">Utilisateurs</string>
+  
+  
+  <string name="array_hash">Hashtags</string>
+  
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_tabs">
+        <item>@string/array_user</item>
+        <item>@string/array_hash</item>
+    </string-array>
+
+
+</resources>
